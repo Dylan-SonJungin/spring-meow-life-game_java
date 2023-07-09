@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td align="center"><strong>Java, Python</strong></td>
-    <td align="center"><strong>Java</strong></td>
+    <td align="center"><strong>Java, <strong>C</strong></td>
     <td align="center"><strong>Java</strong></td>
     <td align="center">C, <strong>Java</strong></td>
     <td align="center"><strong>Java</strong></td>
